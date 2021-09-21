@@ -1,0 +1,84 @@
+{
+  "Courses": [
+    {
+      "id": "02312",
+      "name": "Introductory Programming",
+      "Responsible": "Anne Elisabeth Haxthausen",
+      "Location": "Campus Lyngby",
+      "Point": "10",
+      "img": "https://www.openaccessgovernment.org/wp-content/uploads/2020/08/dreamstime_l_124110584-696x464.jpg"
+    },
+    {
+      "id": "02313",
+      "name": "Development methods for IT systems",
+      "Responsible": "Ian Bridgwood",
+      "Location": "Campus Lyngby",
+      "Point": "5",
+      "img": "https://tryengineering.org/wp-content/uploads/bigstock-School-Children-Learning-Codin-344363629-1024x645.jpg"
+    },
+    {
+      "id": "01901",
+      "name": "Calculus and algebra 1",
+      "Responsible": "Jesper Kampmann Larsen",
+      "Location": "Campus Lyngby",
+      "Point": "5",
+      "img": "https://online-learning.harvard.edu/sites/default/files/styles/header/public/course/asset-v1_HarvardX%2BCalcAPL1x%2B2T2017%2Btype%40asset%2Bblock%40TITLE-Calculus-Applied-2120x1192-NO-SPOTLIGHT%202.png?itok=crWwjmVi"
+    },
+    {
+      "id": "02315",
+      "name": "Version control and test methods",
+      "Responsible": "Stig Høgh",
+      "Location": "Campus Lyngby",
+      "Point": "5",
+      "img": "https://wachesehacademy.com/wp-content/uploads/2021/03/R42f39352ae6b3b29fa01a5a3d9f0ef72.jpg"
+    },
+    {
+      "id": "01904",
+      "name": "Discrete mathematics",
+      "Responsible": "Lars Ramkilde Knudsen",
+      "Location": "Campus Lyngby",
+      "Point": "5",
+      "img": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.6435-9/p180x540/98182622_130189058646578_2490973034727342080_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=kcVBsiDyoXQAX8gF9Pc&_nc_ht=scontent-cph2-1.xx&oh=1c47be4c0a19420a48bdac9062a8d72c&oe=61701EB4"
+    },
+    {
+      "id": "02324",
+      "name": "Advanced Programming",
+      "Responsible": "Ekkart Kindler",
+      "Location": "Campus Lyngby",
+      "Point": "10",
+      "img": "https://careerswithstem.com.au/wp-content/uploads/2021/01/Should-I-study-computer-science-696x464.jpg"
+    },
+    {
+      "id": "02326",
+      "name": "Algorithms and Data Structures",
+      "Responsible": "Eva Rotenberg",
+      "Location": "Campus Lyngby",
+      "Point": "5",
+      "img": "https://marvel-b1-cdn.bc0a.com/f00000000225793/blog-c7ff.kxcdn.com/blog/wp-content/uploads/2019/11/Banner-Blog-1A-1.jpg"
+    },
+    {
+      "id": "02327",
+      "name": "Introductory Databases and Database Programming",
+      "Responsible": "Anne Elisabeth Haxthausen",
+      "Location": "Campus Lyngby",
+      "Point": "5",
+      "img": "https://download.pingcap.com/images/blog/choosing-right-database-for-your-applications.png"
+    },
+    {
+      "id": "62577",
+      "name": "Data Communication",
+      "Responsible": "Henrik Tange",
+      "Location": "Campus Lyngby",
+      "Point": "5",
+      "img": "https://d1619fmrcx9c43.cloudfront.net/fileadmin/_processed_/a/d/csm_fttx_4766991c83.jpg"
+    },
+    {
+      "id": "02322",
+      "name": "Machine oriented programming",
+      "Responsible": "Edward Alexandru Todirica",
+      "Location": "Campus Lyngby",
+      "Point": "5",
+      "img": "https://dz2cdn1.dzone.com/storage/temp/12334613-971.jpg"
+    }
+  ]
+}
