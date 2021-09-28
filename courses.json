@@ -5,6 +5,38 @@
       "Responsible": "Anne Elisabeth Haxthausen",
       "Location": "Campus Lyngby",
       "Point": "10",
+      "Lektioner":[
+        {
+      "Dato":"30-08-2021",
+      "Beskrivelse":"Beskrivelse1",
+      "Lektier":"Lektier1",
+      "Øvelser":"Øvelser1"
+        },
+        {
+      "Dato":"06-09-2021",
+      "Beskrivelse":"Beskrivelse2",
+      "Lektier":"Lektier2",
+      "Øvelser":"Øvelser2"
+        },
+        {
+      "Dato":"13-09-2021",
+      "Beskrivelse":"Beskrivelse3",
+      "Lektier":"Lektier3",
+      "Øvelser":"Øvelser3"
+        },
+        {
+      "Dato":"20-09-2021",
+      "Beskrivelse":"Beskrivelse4",
+      "Lektier":"Lektier4",
+      "Øvelser":"Øvelser4"
+        },
+        {
+      "Dato":"27-09-2021",
+      "Beskrivelse":"Beskrivelse5",
+      "Lektier":"Lektier5",
+      "Øvelser":"Øvelser5"
+        }
+        ],
       "img": "https://www.openaccessgovernment.org/wp-content/uploads/2020/08/dreamstime_l_124110584-696x464.jpg"
     },
     {
@@ -13,6 +45,38 @@
       "Responsible": "Ian Bridgwood",
       "Location": "Campus Lyngby",
       "Point": "5",
+      "Lektioner":[
+        {
+      "Dato":"30-08-2021",
+      "Beskrivelse":"Beskrivelse1",
+      "Lektier":"Lektier1",
+      "Øvelser":"Øvelser1"
+        },
+        {
+      "Dato":"06-09-2021",
+      "Beskrivelse":"Beskrivelse2",
+      "Lektier":"Lektier2",
+      "Øvelser":"Øvelser2"
+        },
+        {
+      "Dato":"13-09-2021",
+      "Beskrivelse":"Beskrivelse3",
+      "Lektier":"Lektier3",
+      "Øvelser":"Øvelser3"
+        },
+        {
+      "Dato":"20-09-2021",
+      "Beskrivelse":"Beskrivelse4",
+      "Lektier":"Lektier4",
+      "Øvelser":"Øvelser4"
+        },
+        {
+      "Dato":"27-09-2021",
+      "Beskrivelse":"Beskrivelse5",
+      "Lektier":"Lektier5",
+      "Øvelser":"Øvelser5"
+        }
+        ],
       "img": "https://tryengineering.org/wp-content/uploads/bigstock-School-Children-Learning-Codin-344363629-1024x645.jpg"
     },
     {
@@ -21,6 +85,38 @@
       "Responsible": "Jesper Kampmann Larsen",
       "Location": "Campus Lyngby",
       "Point": "5",
+      "Lektioner":[
+        {
+      "Dato":"31-08-2021",
+      "Beskrivelse":"Beskrivelse1",
+      "Lektier":"Lektier1",
+      "Øvelser":"Øvelser1"
+        },
+        {
+      "Dato":"07-09-2021",
+      "Beskrivelse":"Beskrivelse2",
+      "Lektier":"Lektier2",
+      "Øvelser":"Øvelser2"
+        },
+        {
+      "Dato":"14-09-2021",
+      "Beskrivelse":"Beskrivelse3",
+      "Lektier":"Lektier3",
+      "Øvelser":"Øvelser3"
+        },
+        {
+      "Dato":"21-09-2021",
+      "Beskrivelse":"Beskrivelse4",
+      "Lektier":"Lektier4",
+      "Øvelser":"Øvelser4"
+        },
+        {
+      "Dato":"28-09-2021",
+      "Beskrivelse":"Beskrivelse5",
+      "Lektier":"Lektier5",
+      "Øvelser":"Øvelser5"
+        }
+        ],
       "img": "https://online-learning.harvard.edu/sites/default/files/styles/header/public/course/asset-v1_HarvardX%2BCalcAPL1x%2B2T2017%2Btype%40asset%2Bblock%40TITLE-Calculus-Applied-2120x1192-NO-SPOTLIGHT%202.png?itok=crWwjmVi"
     },
     {
@@ -29,6 +125,38 @@
       "Responsible": "Stig Høgh",
       "Location": "Campus Lyngby",
       "Point": "5",
+      "Lektioner":[
+        {
+      "Dato":"31-08-2021",
+      "Beskrivelse":"Beskrivelse1",
+      "Lektier":"Lektier1",
+      "Øvelser":"Øvelser1"
+        },
+        {
+      "Dato":"07-09-2021",
+      "Beskrivelse":"Beskrivelse2",
+      "Lektier":"Lektier2",
+      "Øvelser":"Øvelser2"
+        },
+        {
+      "Dato":"14-09-2021",
+      "Beskrivelse":"Beskrivelse3",
+      "Lektier":"Lektier3",
+      "Øvelser":"Øvelser3"
+        },
+        {
+      "Dato":"21-09-2021",
+      "Beskrivelse":"Beskrivelse4",
+      "Lektier":"Lektier4",
+      "Øvelser":"Øvelser4"
+        },
+        {
+      "Dato":"28-09-2021",
+      "Beskrivelse":"Beskrivelse5",
+      "Lektier":"Lektier5",
+      "Øvelser":"Øvelser5"
+        }
+        ],
       "img": "https://wachesehacademy.com/wp-content/uploads/2021/03/R42f39352ae6b3b29fa01a5a3d9f0ef72.jpg"
     },
     {
@@ -37,6 +165,38 @@
       "Responsible": "Lars Ramkilde Knudsen",
       "Location": "Campus Lyngby",
       "Point": "5",
+      "Lektioner":[
+        {
+      "Dato":"01-09-2021",
+      "Beskrivelse":"Beskrivelse1",
+      "Lektier":"Lektier1",
+      "Øvelser":"Øvelser1"
+        },
+        {
+      "Dato":"08-09-2021",
+      "Beskrivelse":"Beskrivelse2",
+      "Lektier":"Lektier2",
+      "Øvelser":"Øvelser2"
+        },
+        {
+      "Dato":"15-09-2021",
+      "Beskrivelse":"Beskrivelse3",
+      "Lektier":"Lektier3",
+      "Øvelser":"Øvelser3"
+        },
+        {
+      "Dato":"22-09-2021",
+      "Beskrivelse":"Beskrivelse4",
+      "Lektier":"Lektier4",
+      "Øvelser":"Øvelser4"
+        },
+        {
+      "Dato":"29-09-2021",
+      "Beskrivelse":"Beskrivelse5",
+      "Lektier":"Lektier5",
+      "Øvelser":"Øvelser5"
+        }
+        ],
       "img": "https://www.openuped.eu/images/mooc/crop/Engineering10.jpg"
     },
     {
@@ -45,6 +205,38 @@
       "Responsible": "Ekkart Kindler",
       "Location": "Campus Lyngby",
       "Point": "10",
+      "Lektioner":[
+        {
+      "Dato":"01-09-2021",
+      "Beskrivelse":"Beskrivelse1",
+      "Lektier":"Lektier1",
+      "Øvelser":"Øvelser1"
+        },
+        {
+      "Dato":"08-09-2021",
+      "Beskrivelse":"Beskrivelse2",
+      "Lektier":"Lektier2",
+      "Øvelser":"Øvelser2"
+        },
+        {
+      "Dato":"15-09-2021",
+      "Beskrivelse":"Beskrivelse3",
+      "Lektier":"Lektier3",
+      "Øvelser":"Øvelser3"
+        },
+        {
+      "Dato":"22-09-2021",
+      "Beskrivelse":"Beskrivelse4",
+      "Lektier":"Lektier4",
+      "Øvelser":"Øvelser4"
+        },
+        {
+      "Dato":"29-09-2021",
+      "Beskrivelse":"Beskrivelse5",
+      "Lektier":"Lektier5",
+      "Øvelser":"Øvelser5"
+        }
+        ],
       "img": "https://careerswithstem.com.au/wp-content/uploads/2021/01/Should-I-study-computer-science-696x464.jpg"
     },
     {
@@ -53,6 +245,38 @@
       "Responsible": "Eva Rotenberg",
       "Location": "Campus Lyngby",
       "Point": "5",
+      "Lektioner":[
+        {
+      "Dato":"02-09-2021",
+      "Beskrivelse":"Beskrivelse1",
+      "Lektier":"Lektier1",
+      "Øvelser":"Øvelser1"
+        },
+        {
+      "Dato":"09-09-2021",
+      "Beskrivelse":"Beskrivelse2",
+      "Lektier":"Lektier2",
+      "Øvelser":"Øvelser2"
+        },
+        {
+      "Dato":"16-09-2021",
+      "Beskrivelse":"Beskrivelse3",
+      "Lektier":"Lektier3",
+      "Øvelser":"Øvelser3"
+        },
+        {
+      "Dato":"23-09-2021",
+      "Beskrivelse":"Beskrivelse4",
+      "Lektier":"Lektier4",
+      "Øvelser":"Øvelser4"
+        },
+        {
+      "Dato":"30-09-2021",
+      "Beskrivelse":"Beskrivelse5",
+      "Lektier":"Lektier5",
+      "Øvelser":"Øvelser5"
+        }
+        ],
       "img": "https://marvel-b1-cdn.bc0a.com/f00000000225793/blog-c7ff.kxcdn.com/blog/wp-content/uploads/2019/11/Banner-Blog-1A-1.jpg"
     },
     {
@@ -61,6 +285,38 @@
       "Responsible": "Anne Elisabeth Haxthausen",
       "Location": "Campus Lyngby",
       "Point": "5",
+      "Lektioner":[
+        {
+      "Dato":"02-09-2021",
+      "Beskrivelse":"Beskrivelse1",
+      "Lektier":"Lektier1",
+      "Øvelser":"Øvelser1"
+        },
+        {
+      "Dato":"09-09-2021",
+      "Beskrivelse":"Beskrivelse2",
+      "Lektier":"Lektier2",
+      "Øvelser":"Øvelser2"
+        },
+        {
+      "Dato":"16-09-2021",
+      "Beskrivelse":"Beskrivelse3",
+      "Lektier":"Lektier3",
+      "Øvelser":"Øvelser3"
+        },
+        {
+      "Dato":"23-09-2021",
+      "Beskrivelse":"Beskrivelse4",
+      "Lektier":"Lektier4",
+      "Øvelser":"Øvelser4"
+        },
+        {
+      "Dato":"30-09-2021",
+      "Beskrivelse":"Beskrivelse5",
+      "Lektier":"Lektier5",
+      "Øvelser":"Øvelser5"
+        }
+        ],
       "img": "https://download.pingcap.com/images/blog/choosing-right-database-for-your-applications.png"
     },
     {
@@ -69,6 +325,38 @@
       "Responsible": "Henrik Tange",
       "Location": "Campus Lyngby",
       "Point": "5",
+      "Lektioner":[
+        {
+      "Dato":"03-09-2021",
+      "Beskrivelse":"Beskrivelse1",
+      "Lektier":"Lektier1",
+      "Øvelser":"Øvelser1"
+        },
+        {
+      "Dato":"10-09-2021",
+      "Beskrivelse":"Beskrivelse2",
+      "Lektier":"Lektier2",
+      "Øvelser":"Øvelser2"
+        },
+        {
+      "Dato":"17-09-2021",
+      "Beskrivelse":"Beskrivelse3",
+      "Lektier":"Lektier3",
+      "Øvelser":"Øvelser3"
+        },
+        {
+      "Dato":"24-09-2021",
+      "Beskrivelse":"Beskrivelse4",
+      "Lektier":"Lektier4",
+      "Øvelser":"Øvelser4"
+        },
+        {
+      "Dato":"31-09-2021",
+      "Beskrivelse":"Beskrivelse5",
+      "Lektier":"Lektier5",
+      "Øvelser":"Øvelser5"
+        }
+        ],
       "img": "https://d1619fmrcx9c43.cloudfront.net/fileadmin/_processed_/a/d/csm_fttx_4766991c83.jpg"
     },
     {
@@ -77,6 +365,38 @@
       "Responsible": "Edward Alexandru Todirica",
       "Location": "Campus Lyngby",
       "Point": "5",
+      "Lektioner":[
+        {
+      "Dato":"03-09-2021",
+      "Beskrivelse":"Beskrivelse1",
+      "Lektier":"Lektier1",
+      "Øvelser":"Øvelser1"
+        },
+        {
+      "Dato":"10-09-2021",
+      "Beskrivelse":"Beskrivelse2",
+      "Lektier":"Lektier2",
+      "Øvelser":"Øvelser2"
+        },
+        {
+      "Dato":"17-09-2021",
+      "Beskrivelse":"Beskrivelse3",
+      "Lektier":"Lektier3",
+      "Øvelser":"Øvelser3"
+        },
+        {
+      "Dato":"24-09-2021",
+      "Beskrivelse":"Beskrivelse4",
+      "Lektier":"Lektier4",
+      "Øvelser":"Øvelser4"
+        },
+        {
+      "Dato":"31-09-2021",
+      "Beskrivelse":"Beskrivelse5",
+      "Lektier":"Lektier5",
+      "Øvelser":"Øvelser5"
+        }
+        ],
       "img": "https://dz2cdn1.dzone.com/storage/temp/12334613-971.jpg"
     }
   ]
